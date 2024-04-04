@@ -154,7 +154,7 @@ const projects = [
       },
       {
         name: "Node",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "MongoDB",
@@ -186,7 +186,7 @@ const projects = [
       },
       {
         name: "Express.js",
-        color: "pink-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "Node.js",
@@ -206,7 +206,7 @@ const projects = [
       },
       {
         name: "Pandas",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
     ],
     image: carrent1,
@@ -218,7 +218,7 @@ const projects = [
     tags: [
       {
         name: "react",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "node.js",
@@ -230,7 +230,7 @@ const projects = [
       },
       {
         name: "electron",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "SciKit Learn",
@@ -242,7 +242,7 @@ const projects = [
       },
       {
         name: "MongoDB",
-        color: "blue-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "Mongoose",
@@ -274,14 +274,14 @@ const projects = [
       },
       {
         name: "numPy",
-        color: "pink-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "Transformers",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    
   },
 ];
 
