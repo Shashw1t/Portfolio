@@ -142,7 +142,7 @@ const projects = [
     tags: [
       {
         name: "Ethereum",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "Solidity",

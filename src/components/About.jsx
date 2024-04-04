@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a computer science indergraduate, currently in my 2nd year software developer with experience in Javascript, and expertise in frameworks like React.js, Node.js, and a little in Three.js. I'm a fast learner who loves to learn modern day technologies that can solve real world problems. I like to work on highly scalable projects.
+        I'm a computer science undergraduate, currently in my 2nd year software developer with experience in Javascript, and expertise in frameworks like React.js, Node.js, and a little in Three.js. I'm a fast learner who loves to learn modern day technologies that can solve real world problems. I like to work on highly scalable projects.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
