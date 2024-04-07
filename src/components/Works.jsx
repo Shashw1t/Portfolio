@@ -82,7 +82,7 @@ const Works = () => {
         >
           Following projects showcases my skills and experience through
           real-world examples of my work. These projects have been built 
-          in the past two years and all the tech stack used is mentioned 
+          over the duration of past two years and all the tech stack used is mentioned 
           for every project.
         </motion.p>
       </div>

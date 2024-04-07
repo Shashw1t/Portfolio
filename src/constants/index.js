@@ -7,7 +7,7 @@ import {
   typescript,
   html,
   css,
-  reactjs,
+  reactjs,  
   redux,
   tailwind,
   nodejs,
@@ -118,7 +118,7 @@ const experiences = [
     ],
   },
   {
-    title: "Full Stack developer intern",
+    title: "MERN Stack Developer intern",
     company_name: "Bharat Intern",
     icon: intern,
     iconBg: "#E6DEDD",
@@ -142,7 +142,7 @@ const projects = [
     tags: [
       {
         name: "Ethereum",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "Solidity",
@@ -150,7 +150,7 @@ const projects = [
       },
       {
         name: "React",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
       {
         name: "Node",
@@ -170,7 +170,7 @@ const projects = [
       },
       {
         name: "Docker",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
     ],
     image: location,
@@ -190,7 +190,7 @@ const projects = [
       },
       {
         name: "Node.js",
-        color: "pink-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "mongodb",
@@ -202,7 +202,7 @@ const projects = [
       },
       {
         name: "Mongoose",
-        color: "blue-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "Pandas",
@@ -212,13 +212,13 @@ const projects = [
     image: carrent1,
   },
   {
-    name: "Crypto Sentinels",
+    name: "Crypto Sentinels (SIH 2023 Finalist)",
     description:
-      "Crypto Sentinels is a toolkit for government agencies to help them monitor and deanonymize cryptocurrency wallets related to illegal activities on the dark web",
+      "Crypto Sentinels is a toolkit for government agencies to help them monitor and deanonymize cryptocurrency wallets related to illegal activities on the dark web. Based on problem statement SIH1445, 2023: De-anonymisation for monitoring & tracking of illegal activities performed using cryptocurrency transaction technology",
     tags: [
       {
         name: "react",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "node.js",
@@ -226,7 +226,7 @@ const projects = [
       },
       {
         name: "express.js",
-        color: "blue-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "electron",
@@ -242,11 +242,11 @@ const projects = [
       },
       {
         name: "MongoDB",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "Mongoose",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "AWS EC2",
@@ -278,10 +278,10 @@ const projects = [
       },
       {
         name: "Transformers",
-        color: "pink-text-gradient",
+        color: "orange-text-gradient",
       },
     ],
-    image: tripguide,
+    // image: tripguide,
   },
 ];
 
