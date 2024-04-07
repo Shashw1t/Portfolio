@@ -1,2 +1,2 @@
 [build]
-  base = "dist"
+  base = "portfolio three.js/dist"
