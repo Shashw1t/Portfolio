@@ -1,1 +1,1 @@
-Just learning Three.js and implementing some new things
+Portfolio website to learn Three.js and 3D texturing.
