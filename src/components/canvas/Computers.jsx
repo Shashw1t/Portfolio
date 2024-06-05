@@ -44,7 +44,7 @@ const ComputersCanvas = () => {
       setIsMobile(event.matches);
     };
 
-    // Add the callback function as a listener for changes to the media query
+    // Add the callback function as a listener for changes to the  media query
     mediaQuery.addEventListener("change", handleMediaQueryChange);
 
     // Remove the listener when the component is unmounted 
