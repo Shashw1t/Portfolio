@@ -1,2 +1,5 @@
+
 [build]
-  base = "./portfolio three.js/dist"
+  base = "./portfolio three.js"
+  publish = "dist"
+  command = "npm run build"
